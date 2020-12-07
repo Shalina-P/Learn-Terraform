@@ -1,6 +1,6 @@
 # Terraform Modules
 
-This repository is for Terraform modules that will be referenced in other code. The modules will be referenced using the example argument below. (replace INSERT-MODULE-HERE with the folder to be used)
+This repository is for Terraform modules that will be referenced in other code. The modules will be referenced using the example argument below. (replace INSERT-MODULE-HERE with the folder to be used) test
 
 ```
 source = "github.com/jakeasarus/terraform/INSERT-MODULE-HERE"
